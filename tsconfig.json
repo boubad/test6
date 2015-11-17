@@ -1,0 +1,13 @@
+{
+    "version": "1.6.2",
+    "compilerOptions": {
+        "target": "es6",
+        "module": "system",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    }
+   
+}
