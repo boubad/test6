@@ -81,10 +81,7 @@
     }
   },
   "dependencies": {
-    "gulp-typescript": "^2.9.2",
-    "merge": "^1.2.0",
     "papaparse": "^4.1.2",
-    "pouchdb-find": "^0.7.0",
-    "typescript": "^1.6.2"
+    "pouchdb-find": "^0.7.0"
   }
 }
